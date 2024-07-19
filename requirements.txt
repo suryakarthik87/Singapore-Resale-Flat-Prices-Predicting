@@ -1,8 +1,8 @@
 pandas
-numphy
+numpy
 matplotlib
 seaborn
-sklearn
+scikit-learn
 streamlit
 streamlit_option_menu
 RandomForestRegressor
