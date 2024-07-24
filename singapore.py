@@ -346,7 +346,7 @@ if selected == "Prediction":
             
                 def load_data():
                     # Load data
-                    data = pd.read_csv(r'D:\projects\singapore_flats\final.csv')
+                    data = pd.read_csv(r'D:/projects/singapore_flats/final.csv')
                     sample_df = data.sample(n=5000, random_state=42)
                     return sample_df
 
