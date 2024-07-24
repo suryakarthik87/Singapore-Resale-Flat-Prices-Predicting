@@ -12,6 +12,6 @@ scikit-learn==1.5.1
 scikit-learn-3way-split==0.0.1
 scikit-learn-VAL==0.0.1
 scikit-lexicographical-trees==0.0.2
-scikit-learn==0.0.post12
+scikit-learn==1.5.1.post12
 the1owl==0.0.8
 theBrainFuck==0.0.3
