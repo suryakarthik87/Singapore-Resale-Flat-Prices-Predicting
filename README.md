@@ -34,6 +34,9 @@ The resale flat market in Singapore is highly competitive, and it can be challen
 
 ### Data Source
 **Link** : https://beta.data.gov.sg/collections/189/view
+
+### Streamlit App
+**Link** :[Streamlit App](https://singapore-resale-flat-prices-predicting-3ia6.onrender.com/)
 <br/>
 
 ## Project Workflow
